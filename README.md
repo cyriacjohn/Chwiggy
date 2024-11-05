@@ -1,6 +1,8 @@
 # Chwiggy
 Swiggy clone Frontend project
 
+![Swiggy Clone Banner](https://github.com/cyriacjohn/Chwiggy/blob/main/logo.svg)
+
 This is a web application designed to mimic the functionality and user experience of the popular food delivery platform, Swiggy. With a modern design and intuitive interface, users can browse through a variety of restaurants, view menus, and place orders seamlessly.
 
 ## Technologies Used
